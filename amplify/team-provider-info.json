@@ -28,6 +28,11 @@
       "StackName": "amplify-amplifyexpotutorial-staged-114206",
       "StackId": "arn:aws:cloudformation:ap-northeast-2:220337603506:stack/amplify-amplifyexpotutorial-staged-114206/380e16d0-77dc-11eb-9c60-027d858bb14c",
       "AmplifyAppId": "d3fhblhiigsksh"
+    },
+    "categories": {
+      "auth": {
+        "amplifyexpotutorial7f27935d": {}
+      }
     }
   },
   "production": {
